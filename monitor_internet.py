@@ -8,7 +8,7 @@ from email.mime.multipart import MIMEMultipart
 SMTP_SERVER = "smtp.gmail.com"   # Servidor SMTP (ejemplo con Gmail)
 SMTP_PORT = 587
 EMAIL_USER = "diego100018@gmail.com"   # Cambia por tu correo
-EMAIL_PASS = "dbfo unvz ehzh qyru"    # Usa una contraseña de aplicación (no la personal)
+EMAIL_PASS = "#### #### ####"    # Usa una contraseña de aplicación (no la personal)
 EMAIL_TO = "diego100018@gmail.com" # Destinatario de la alerta
 
 CHECK_INTERVAL = 60  # Segundos entre verificaciones
